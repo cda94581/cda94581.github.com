@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "A rewrite of the cda94581.github.io website",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "dev": "vuepress dev pages",
+    "build": "vuepress build pages"
   },
   "repository": {
     "type": "git",

@@ -12,3 +12,4 @@ permalink: /unrelated/stories/
 ```md
 [Link Display](./stories/the-campaign-series)
 ```
+- Information about `<span v-for="i in X">Something</span>` - Uses Vue (idk im not an expert) to loop `X` amount of times and input something.

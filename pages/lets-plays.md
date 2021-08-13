@@ -1,5 +1,5 @@
 ---
-permalink: /lets_plays/
+permalink: /lets-plays/
 ---
 # Let's Plays
 From time to time, I might do a let's play for Minecraft. This page stands as a link to direct you to some information about them.

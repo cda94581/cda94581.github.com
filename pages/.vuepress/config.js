@@ -25,7 +25,7 @@ module.exports = {
 			},
 			{
 				text: 'Let\'s Plays',
-				link: '/lets_plays/'
+				link: '/lets-plays/'
 			},
 			{
 				text: 'Downloads',

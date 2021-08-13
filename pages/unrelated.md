@@ -17,7 +17,7 @@ Unlike most of this website's [license](#license), these bots are available unde
 ## Discord
 Projects that I created, based around Discord.
 
-### [Stories](./stories/)
+### [Stories](./unrelated/stories/)
 These are some stories that I've written, or am working on writing, in my free time. They were originally posted to Discord.
 
 ::: warning License Notice

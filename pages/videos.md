@@ -1,3 +1,6 @@
+---
+permalink: /videos/
+---
 # Videos, Tutorials & Assets
 You now have a choice! You can either watch my videos to learn how-tos, or you can read about it instead! ~~Though I would appreciate it if you still watched the videos.~~
 

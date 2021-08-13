@@ -21,23 +21,23 @@ module.exports = {
 		navbar: [
 			{
 				text: 'About',
-				link: '/about'
+				link: '/about/'
 			},
 			{
 				text: 'Let\'s Plays',
-				link: '/lets_plays'
+				link: '/lets_plays/'
 			},
 			{
 				text: 'Downloads',
-				link: '/downloads'
+				link: '/downloads/'
 			},
 			{
 				text: 'Videos, Tutorials & Assets',
-				link: '/videos'
+				link: '/videos/'
 			},
 			{
 				text: 'Unrelated to Content',
-				link: '/unrelated'
+				link: '/unrelated/'
 			}
 		],
 		sidebar: 'auto'

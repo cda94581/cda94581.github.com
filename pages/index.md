@@ -1,3 +1,6 @@
+---
+permalink: /
+---
 # cda94581's Website
 Welcome! You've found the rewrite of my website. I wonder what will be here someday.
 

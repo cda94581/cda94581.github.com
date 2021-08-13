@@ -1,0 +1,45 @@
+module.exports = {
+	lang: 'en-US',
+	title: 'cda94581\'s Website',
+	description: 'cda94581, hobby YouTuber, Programmer, Add-on Developer; Technical Minecraft Know-how, Minecraft Let\'s Plays, and more.',
+	base: '/website-rewrite/',
+	head: [
+		['link', { rel: 'icon', type: 'image/png', href: '/images/logo.png' }]
+	],
+
+	themeConfig: {
+		logo: '/images/logo.png',
+		notFound: [
+			'Uh oh, I broke something, or you made a typo.'
+		],
+
+		repo: 'cda94581/website-rewrite',
+		editLink: false,
+		lastUpdated: true,
+		contributors: false,
+
+		navbar: [
+			{
+				text: 'About',
+				link: '/about'
+			},
+			{
+				text: 'Let\'s Plays',
+				link: '/lets_plays'
+			},
+			{
+				text: 'Downloads',
+				link: '/downloads'
+			},
+			{
+				text: 'Videos, Tutorials & Assets',
+				link: '/videos'
+			},
+			{
+				text: 'Unrelated to Content',
+				link: '/unrelated'
+			}
+		],
+		sidebar: 'auto'
+	},
+}

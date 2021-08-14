@@ -1,8 +1,5 @@
----
-permalink: /unrelated/stories/the-campaign-series/the-campaign-draft-1/
----
 # The Campaign (Book) - Draft 1
-< [Back to "The Campaign (Series)"](..)
+< [Back to "The Campaign (Series)"](../the-campaign-series)
 
 Blaine Leelah never wanted this. Summer 2020, he was just goofing around with his friends, but he never expected that when one friend shouted, "Blaine Leelah, 2024", his whole world would flip upside-down...
 

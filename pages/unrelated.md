@@ -1,6 +1,3 @@
----
-permalink: /unrelated/
----
 # Unrelated to Content
 This is a place where you can find other projects I've been working on, outside of the life of making videos.
 
@@ -17,7 +14,7 @@ Unlike most of this website's [license](#license), these bots are available unde
 ## Discord
 Projects that I created, based around Discord.
 
-### [Stories](./unrelated/stories/)
+### [Stories](./unrelated/stories)
 These are some stories that I've written, or am working on writing, in my free time. They were originally posted to Discord.
 
 ::: warning License Notice

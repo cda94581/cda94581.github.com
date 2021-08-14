@@ -1,12 +1,9 @@
----
-permalink: /unrelated/stories/the-campaign-series/
----
 # The Campaign (series)
-< [Back to "Stories"](..)
+< [Back to "Stories"](../stories)
 
 A group of friends force a boy named Blaine Leelah to run for President...
 
-## [The Campaign (Book) - Draft 1](./the-campaign-series/the-campaign-draft-1/)
+## [The Campaign (Book) - Draft 1](./the-campaign-series/the-campaign-draft-1)
 Blaine Leelah never wanted this. Summer 2020, he was just goofing around with his friends, but he never expected that when one friend shouted, "Blaine Leelah, 2024", his whole world would flip upside-down...
 
 ::: warning NOTICE

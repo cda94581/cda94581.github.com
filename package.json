@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "A rewrite of the cda94581.github.io website",
   "scripts": {
-    "dev": "vitepress dev pages",
-    "build": "vitepress build pages"
+    "dev": "vuepress dev pages",
+    "build": "vuepress build pages"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/cda94581/website-rewrite#readme",
   "dependencies": {
-    "vitepress": "^0.16.1"
+    "vuepress": "^2.0.0-beta.24"
   }
 }

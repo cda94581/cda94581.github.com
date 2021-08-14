@@ -1,6 +1,3 @@
----
-permalink: /downloads/
----
 # Downloads
 These are all the packs that I've used or made, made available to you! Please note that these are for Minecraft Bedrock Edition. If there are other downloads, a seperate page will be made for them.
 

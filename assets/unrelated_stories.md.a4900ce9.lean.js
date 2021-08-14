@@ -1,1 +1,0 @@
-import{o as e,c as a,a as r}from"./app.28387b82.js";const t='{"title":"Stories","description":"","frontmatter":{},"headers":[{"level":2,"title":"The Campaign (series)","slug":"the-campaign-series"}],"relativePath":"unrelated/stories.md","lastUpdated":1628960831820}',i={},s=[r('',5)];i.render=function(r,t,i,o,n,h){return e(),a("div",null,s)};export{t as __pageData,i as default};

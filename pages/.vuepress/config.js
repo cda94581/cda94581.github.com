@@ -14,7 +14,12 @@ module.exports = {
 		],
 
 		repo: 'cda94581/website-rewrite',
-		editLink: false,
+		docsRepo: 'https://github.com/cda94581/website-rewrite',
+		docsBranch: 'source',
+		docsDir: 'pages',
+		editLink: true,
+		editLinkText: 'View Source',
+		editLinkPattern: ':repo/blob/:branch/:path',
 		lastUpdated: true,
 		contributors: false,
 

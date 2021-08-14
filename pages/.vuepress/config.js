@@ -7,7 +7,8 @@ module.exports = {
 	base: '/website-rewrite/',
 	head: [
 		[ 'link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-		[ 'script', { async: {}, src: "https://platform.twitter.com/widgets.js", charset: 'utf-8' }]
+		[ 'script', { async: {}, src: "https://platform.twitter.com/widgets.js", charset: 'utf-8' }],
+		[ 'script', { src: 'https://apis.google.com/js/platform.js' }],
 	],
 
 	theme: path.resolve(__dirname, './theme/local-theme/index.js'),

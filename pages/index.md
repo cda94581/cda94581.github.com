@@ -23,4 +23,4 @@ My Twitch Follow Widget will be here...
 ### cda94582 - YouTube
 [Subscrib :>](https://www.youtube.com/channel/UCAM79pxSAlMCBLSOh6UHqhw?sub_confirmation=1) actually do what you want idrc.
 
-<YouTubeEmbed id="ry5WhrjdXiU" />
+<YouTubeVideo id="ry5WhrjdXiU" />

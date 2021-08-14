@@ -7,7 +7,7 @@ Random gibberish aside, feel free to explore around!
 Below is the latest stuff from my channels.
 
 ### cda94581 - YouTube
-<div class="g-ytsubscribe" data-channelid="UChS6c5BqPotCVVEW0gzRysA" data-layout="default" data-count="default"><p><a :href="`https://www.youtube.com/channel/cda94581?sub_confirmation=1`" target="_blank">Subscrib :><OutboundLink/></a>actually do what you want idrc.</p></div>
+[Subscrib :>](https://www.youtube.com/cda94581?sub_confirmation=1) actually do what you want idrc.
 
 <YouTubeVideo id="zu7m8I94kAs" />
 
@@ -21,6 +21,6 @@ My Twitch Follow Widget will be here...
 <TwitterTimeline id="cda94581" />
 
 ### cda94582 - YouTube
-<div class="g-ytsubscribe" data-channelid="UCAM79pxSAlMCBLSOh6UHqhw" data-layout="default" data-count="default"><p><a :href="`https://www.youtube.com/channel/UCAM79pxSAlMCBLSOh6UHqhw?sub_confirmation=1`" target="_blank">Subscrib :><OutboundLink/></a>actually do what you want idrc.</p></div>
+[Subscrib :>](https://www.youtube.com/channel/UCAM79pxSAlMCBLSOh6UHqhw?sub_confirmation=1) actually do what you want idrc.
 
 <YouTubeVideo id="ry5WhrjdXiU" />

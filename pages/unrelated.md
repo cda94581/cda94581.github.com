@@ -1,8 +1,11 @@
 # Unrelated to Content
 This is a place where you can find other projects I've been working on, outside of the life of making videos.
 
-## Github
-Projects that I created, based around Github.
+## [Blog](./unrelated/blog)
+Occasionally, I might want to write about something. This is just a place for me to store unrelated things that I learned, or anything I want to keep, but don't have a place to keep it for. I refuse to use other blogging sites though, so I'll use this.
+
+## GitHub
+Projects that I created, based around GitHub.
 
 ### [Discord Bots](https://cda94581.github.io/discord_bots)
 These are bots that I work on in my spare time, when I'm bored. You can find the source code for them [here](https://github.com/cda94581/discord_bots).
@@ -14,7 +17,7 @@ Unlike most of this website's [license](#license), these bots are available unde
 ## Discord
 Projects that I created, based around Discord.
 
-### [Stories](./unrelated/stories)
+### [Stories](./unrelated/discord/stories)
 These are some stories that I've written, or am working on writing, in my free time. They were originally posted to Discord.
 
 ::: warning License Notice

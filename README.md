@@ -13,3 +13,14 @@ permalink: /unrelated/stories/
 [Link Display](./stories/the-campaign-series)
 ```
 - Information about `<span v-for="i in X">Something</span>` - Uses Vue (idk im not an expert) to loop `X` amount of times and input something.
+
+## To-Do
+- [ ] Move Tutorial Pack Downloads to "videos/"
+- [x] Responsive Design
+- [x] Better Color Scheme
+- [ ] Better Design In General
+- [ ] Landing Page for Each Asset Y/M/D
+- [ ] Tutorials Pages
+- [ ] Video List & Summary
+- [ ] Move Non YouTubey Things Elsewhere?
+- [ ] Something That I Forget

@@ -25,4 +25,5 @@ permalink: /unrelated/stories/
 - [ ] Move Non YouTubey Things Elsewhere?
 - [ ] Something That I Forget
 - [ ] Community Tab, Contains Community Things Like Servers, Server Staff, Etc.
-- [ ] Blog
+- [x] Blog
+- [ ] Portfolio

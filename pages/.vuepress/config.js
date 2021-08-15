@@ -25,7 +25,7 @@ module.exports = {
 		docsBranch: 'source',
 		docsDir: 'pages',
 		editLink: true,
-		editLinkText: 'Edit this page on GitHub',
+		editLinkText: 'View Source on GitHub',
 		editLinkPattern: ':repo/blob/:branch/:path',
 		lastUpdated: true,
 		contributors: false,

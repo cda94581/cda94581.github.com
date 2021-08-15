@@ -122,7 +122,7 @@ If you have any feedback, suggestions, or issues, feel free to [contact me](../a
 - [Bugs, Feedback, Suggestions, Contributions](https://github.com/cda94581/Community_Collabs/tree/Add-ons/cda001)
 
 ## 2021/03/16
-> **Cda's Morph Add-on by cda94581** - Updated 2021/06/16 - Version 0.0.6
+> **Cda's Morph Add-on by cda94581** - Updated 2021/08/15 - Version 0.0.7
 <YouTubeVideo id="hrUO6cjRXj0" />
 
 ### Introduction
@@ -131,11 +131,15 @@ If you have any feedback, suggestions, or issues, feel free to [contact me](../a
 Cda’s Morph Add-on brings the popular Java Edition Morph Mod onto Bedrock Edition! This currently supports all the hostile mobs as stated by Minecraft Gamepedia. You are able to morph into mobs and take their appearance, abilities, and more using items that you can either craft or get by killing a mob.
 
 ### Documentation
-This add-on allows you to **morph** into any mob. With this add-on you have at your disposal 69 different mobs **Morph** items that you may use to morph into the mobs, as well as an item to morph back into your regular **Player**.
-![Morph Items](https://api.mcpedl.com/storage/submissions/108264/images/117-mobs--cdas-morph-alpha_2.png)
+Please note that I am fully, 100% aware of many issues. I am working on fixing them. For a question like "It doesn't work", (because it works) check the troubleshooting section. If you have issues with that, then [contact me](../about#links). For something that you think is a bug, report it on [GitHub](https://github.com/cda94581/Community_Collabs/issues?q=is%3Aopen+is%3Aissue+label%3A%22%E2%9A%A0+Bug%22+label%3A%22%F0%9F%A7%9F%E2%80%8D%E2%99%82%EF%B8%8F+Cda%27s+Morph+Add-on%22) if it hasn't already been reported.
 
-You also have 3 **WIP** mobs, hidden but still obtainable, that you may use to test out the other mobs!
-![WIP Morph Items](https://api.mcpedl.com/storage/submissions/100705/images/new-mobs--cdas-morph-alpha_3.png)
+This add-on allows you to **morph** into any mob. With this add-on you have at your disposal 71 different mobs **Morph** items that you may use to morph into the mobs, as well as an item to morph back into your regular **Player**.
+![Morph Items](WIP)
+
+Please note that from version 0.0.7 and onwards, using the morph items is different. Previously, you would just **USE** the item, whether that be right-click or similar. <span style="background-color: #FDFD77">**Now**, you must **SNEAK & JUMP**</span> while holding the item.
+
+You also have 1 **WIP** mob, the Ender Dragon.
+![WIP Morph Item](WIP)
 
 Please note, many packs will **<span style="background-color: #FDFD77;">not</span>** work with this, as it modifies the **<span style="background-color: #FDFD77;">Vanilla Player Files</span>**.
 
@@ -176,11 +180,13 @@ You can also toggle if you want to only be able to obtain by **crafting**, by **
 - **Right Center** - Only Loot Tables
 - **Right** - Recipes & Loot Tables
 
-**To obtain WIP Mobs**:
+**To obtain the WIP Mob**:
 
-Run **"/function cda002/"**, followed by one of the **WIP** mobs, replacing spaces with **Underscores** \_ and **converting to lowercase**. For example, to access the **Silverfish**, run:
+Run **"/function cda002/"**, followed by one of the **WIP** mobs, replacing spaces with **Underscores** \_ and **converting to lowercase**. For example, to access the **Ender Dragon**, run:
 
-1. /function cda002/silverfish
+1. /function cda002/ender_dragon
+
+Please note that there is a reason that the Ender Dragon is marked as WIP, and that I am working on bringing it out.
 
 [https://github.com/cda94581/Community_Collabs/issues?q=is%3Aopen+is%3Aissue+label%3A%22%E2%9A%A0+Bug%22+label%3A%22%F0%9F%A7%9F%E2%80%8D%E2%99%82%EF%B8%8F+Cda%27s+Morph+Add-on%22](https://github.com/cda94581/Community_Collabs/issues?q=is%3Aopen+is%3Aissue+label%3A%22%E2%9A%A0+Bug%22+label%3A%22%F0%9F%A7%9F%E2%80%8D%E2%99%82%EF%B8%8F+Cda%27s+Morph+Add-on%22)
 
@@ -194,19 +200,19 @@ Run **"/function cda002/"**, followed by one of the **WIP** mobs, replacing spac
 - #13 Piglin brutes don't drop morph
 
 **Reasons some mobs are WIP**:
-- #20 Most of Silverfish body renders incorrectly
-- #80 Chicken renders incorrectly
 - #81 Ender Dragon renders incorrectly
 
 **Troubleshooting**
 
 If your pack won't work, the information below may help. Additional information can be found in the Pinned Comments on MCPEDL or YouTube.
 - Make sure that when you apply the Behavior Pack, you choose a subpack.
+	- Note that this *should* automatically happen if you apply the Behavior Pack first, however always double check.
 - Make sure both the Resource Pack and Behavior Pack is applied.
 - This pack might not be compatible with other packs.
 - Cheats might need to be enabled (testing required).
 - Before 0.0.6, make sure you're on version 1.16.201+.
 - As of 0.0.6, make sure you're on version 1.17.0+.
+- As of 0.0.7, make sure you're on version 1.17.10+
 - Before 0.0.3, make sure "Holiday Creator Features" is enabled.
 - Contact me! I highly recommend using [these links](../about#links) as I can more easily receive notifications and as such, help more.
 
@@ -226,12 +232,29 @@ If you have any feedback, suggestions, or issues, feel free to [contact me](../a
 :::
 
 ### Downloads
-- [Download on Mediafire (avoid Download Here ads)](https://www.mediafire.com/file/c2msjyqfl7019xs/cdasMorphV0.0.6.mcaddon/file)
+- [Download on Mediafire (avoid Download Here ads)](https://www.mediafire.com/file/uvpk0ghl187ykr9/cdasMorphV0.0.7.mcaddon/file)
 - [Bugs, Feedback, Suggestions, Contributions](https://github.com/cda94581/Community_Collabs/tree/Add-ons/cda002)
-- [LEGACY: Download Last version for 1.16 (Alpha 0.0.5)](https://www.mediafire.com/file/7lp1zj1nebsax3s/cdasMorphV0.0.5.mcaddon/file)
+
+::: details LEGACY LINKS
+These are a collection of the latest release, when you're on the latest version.
+- [Download Last version for 1.17.0 (Alpha 0.0.6)](https://www.mediafire.com/file/c2msjyqfl7019xs/cdasMorphV0.0.6.mcaddon/file)
+- [Download Last version for 1.16 (Alpha 0.0.5)](https://www.mediafire.com/file/7lp1zj1nebsax3s/cdasMorphV0.0.5.mcaddon/file)
+:::
 
 ### Changelogs
-:::: details 0.0.1 - 0.0.6
+:::: details 0.0.1 - 0.0.7
+::: details Version 0.0.7
+- Updated Properly for 1.17.10
+- Reformatted queries and variables to save a few bytes
+- Minimized final product to save space (If you want expanded version, contact me :)
+- Silverfish now renders properly ([#20](https://github.com/cda94581/Community_Collabs/issues/20))
+- Chicken now renders properly ([#80](https://github.com/cda94581/Community_Collabs/issues/80))
+- Silverfish has been removed from hidden WIP mobs
+- Chicken has been removed from hidden WIP mobs
+- Morph activating has changed from USING the item to SNEAK & JUMP while holding the item
+- Morph should now work in Multiplayer ([#84](https://github.com/cda94581/Community_Collabs/issues/84))
+:::
+
 ::: details Version 0.0.6
 - Updated Properly for 1.17.0
 - Added Axolotl

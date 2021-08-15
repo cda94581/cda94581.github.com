@@ -49,13 +49,7 @@ module.exports = {
 			},
 			{
 				text: 'Unrelated to Content',
-				link: '/unrelated',
-				children: [
-					{
-						text: 'Blog',
-						link: '/unrelated/blog'
-					}
-				]
+				link: '/unrelated'
 			}
 		],
 		sidebar: 'auto'

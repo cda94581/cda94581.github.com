@@ -4,7 +4,7 @@ module.exports = {
 	lang: 'en-US',
 	title: 'cda94581\'s Website',
 	description: 'cda94581, hobby YouTuber, Programmer, Add-on Developer; Technical Minecraft Know-how, Minecraft Let\'s Plays, and more.',
-	base: '/website-rewrite/',
+	base: '/',
 	head: [
 		[ 'link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
 		[ 'script', { async: {}, src: "https://platform.twitter.com/widgets.js", charset: 'utf-8' }],

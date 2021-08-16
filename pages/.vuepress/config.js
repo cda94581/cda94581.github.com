@@ -48,6 +48,10 @@ module.exports = {
 				link: '/videos'
 			},
 			{
+				text: 'Community Stuff',
+				link: '/community'
+			},
+			{
 				text: 'Unrelated to Content',
 				link: '/unrelated'
 			}

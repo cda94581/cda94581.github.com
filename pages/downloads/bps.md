@@ -123,8 +123,8 @@ If you have any feedback, suggestions, or issues, feel free to [contact me](../a
 
 ### Changelogs
 ::: details Version 1.0.2
-Updated version number to match with MCPEDL (assuming I remember file verification)
-Fixed an issue preventing chunk loaders from being summoned when stepping on the block, in the nether/end ([#82](https://github.com/cda94581/Community_Collabs/issues/82))
+- Updated version number to match with MCPEDL (assuming I remember file verification)
+- Fixed an issue preventing chunk loaders from being summoned when stepping on the block, in the nether/end ([#82](https://github.com/cda94581/Community_Collabs/issues/82))
 :::
 
 ## 2021/03/16

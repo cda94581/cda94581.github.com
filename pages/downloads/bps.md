@@ -64,10 +64,10 @@ If you have any feedback, suggestions, or issues, feel free to [contact me](../a
 - [Bugs, Feedback, Suggestions, Contributions](https://github.com/cda94581/Community_Collabs/tree/Add-ons/cda003)
 
 ## 2021/06/01
-> **Open Source Chunk Loaders by cda94581** - Version 1.0.0
+> **Open Source Chunk Loaders by cda94581** - Updated 2021/09/05 - Version 1.0.2
 <YouTubeVideo id="LJBd6VS20jI" />
 
-[View on MCPEDL](https://mcpedl.com/cdas-morph/)
+[View on MCPEDL](https://mcpedl.com/open-source-chunk-loaders/)
 
 ### Introduction
 Open Source Chunk Loaders is a free addon that adds chunk loaders to Minecraft Bedrock Edition. These can be used for a variety of purposes, like loading farms that don't require a player to be nearby to work, like crop farms. Unlike the existing /tickingarea command, Open Source Chunk Loaders use an entity with a minecraft:tick\_world component to keep chunks loaded. Within reason, unlimited chunk loaders can be added, from a 2 chunk radius, to a 6 chunk radius. This will NOT work as a player, farms that require a player nearby like Iron Golem farms or spawner-based farms, will not work.
@@ -118,8 +118,14 @@ If you have any feedback, suggestions, or issues, feel free to [contact me](../a
 :::
 
 ### Downloads
-- [Download on Mediafire (avoid Download Here ads)](https://www.mediafire.com/file/soyb761h9u8z6zg/openSourceChunkLoadersV1.0.0.mcaddon/file)
+- [Download on Mediafire (avoid Download Here ads)](https://www.mediafire.com/file/60opkkq5spby4kp/openSourceChunkLoadersV1.0.2.mcaddon/file)
 - [Bugs, Feedback, Suggestions, Contributions](https://github.com/cda94581/Community_Collabs/tree/Add-ons/cda001)
+
+### Changelogs
+::: details Version 1.0.2
+Updated version number to match with MCPEDL (assuming I remember file verification)
+Fixed an issue preventing chunk loaders from being summoned when stepping on the block, in the nether/end ([#82](https://github.com/cda94581/Community_Collabs/issues/82))
+:::
 
 ## 2021/03/16
 > **Cda's Morph Add-on by cda94581** - Updated 2021/08/15 - Version 0.0.7

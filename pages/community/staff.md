@@ -22,7 +22,11 @@ Moderators keep our community in check, while also being a key part in the perso
 :::
 
 ::: code-group-item Bio
-Suspicious. And awesome.
+sus, humble!
+
+- Content Creator on YT
+- Plays on The Hive
+- Loves helping people
 
 Moderator since February 13, 2021.
 :::

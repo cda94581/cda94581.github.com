@@ -4,110 +4,111 @@
 ## Rules & Information
 Members of this server are expected to follow and uphold the rules. Below is the general server rules and information, which can also be found in the [#rules-info](https://discord.com/channels/760613444323115018/760613526754164777) channel. Note that the rules may be revamped at any moment.
 
-> **Welcome to *So This Is A Discord Server :eyes:***
+> **Welcome to *So This Is A Discord Server :eyes:*!**
 
-This is a server in which we have fun and do things because we're bored. Like any server, we have rules in place to ensure a great time in our server. Please take a moment to read the following server rules and general information
+*So This Is A Discord Server :eyes:*, abbreviated *STIADS:eyes:*, is a Discord server where the primary focus is to hang out and have fun. And bully @cda94581#2410.  
+Below contains the server rules and general information for the server. By being a member of this server, you agree to follow the rules.
 
-> **Server Rules**
+> **Rules**
 
-1. **Be Respectful**: We want to create and uphold a safe and caring environment for all to enjoy, and your behavior should reflect it. Harrassment, bullying, targeting, etc, will not be tolerated. Please avoid controversial topics, such as politics or religion. Do not find loopholes to get around certain things
-*If something is not explicitly stated, use your best judgement to determine what's right and what's wrong.*
-2. **Nothing Explicit or Inappropriate**: This is a PG server. Do not post any graphical or vulgar content. Requesting of overly graphical and/or vulgar songs is prohibited. Furthermore, sharing if hacks, exploits, pirated software, etc, is prohibted. Limit your use of language.
-3. **No Harrassment**: This includes, but is not limited to, bullying, targeting, discrimination due to race, color, gender, sex, sexual orientation, etc. These are all prohibted. Furthermore, consistent pinging (`@<user>`) and ghost-pinging (Ping then removing it), DMs, etc, when asked to stop, are prohibited.
-4. **No Spam**: Spam, the repeated posting of messages, media, song lyrics, copy pasta, etc, is prohibited.
-5. **Watch Spoilers**: While we may be eager to talk about that latest hit, we must respect the fact that others who want to see it, may have not seen it yet, and talking about it may ruin the experience. Please give a considerable amount of time after the release before diving deeper, and even then, be careful not to divulge too deep.
-6. **Advertisement**: You are allowed to post your own content (videos, streams, etc) in #media. Posting of Discord Server Invites, Direct Channel Links, Offline Streaming Channels, and other things not related to *So This Is A Discord Server 👀* and this server, are subject to removal.
-7. **Follow the Discord ToS**: Like the Federal Laws of the US, the Discord Terms of Service is the supreme set of rules that all must follow. *Please note you must be at least 13, or older in some countries, to use Discord.* Read the full terms at [https://dis.gd/terms](https://dis.gd/terms)
-8. **Have Fun**: This server is a more relaxed server, created for the purpose of having fun. So we hope you have a great time with the members of this server.
-- If you notice someone blatantly breaking the rules to a degree that requires immediate attention, please mention @Moderator or @Helper.
-- For any inquiries with Moderators, please DM @STIADS👀 Bot#9143 so any active Mod may assist you.
-- If you have issues with a Mod, you may DM @cda94581#2410 or @cda94582#9689
+While the rules can be expanded into many more rules, there are only 4 main points.
 
-> **General Server Information**
+• **Respect & Etiquette**  
+We want to create and uphold a safe and caring environment for all to enjoy. Discrimination, harassment, bullying, and/or targeting, to name a few, will not be tolerated.  
+In the name of respect, please avoid controversial topics such as politics or religion. Additionally, don't exploit loopholes; you're expected to follow the rules and the *spirit* of the rules.  
+*If something is not explicitly stated, use your best judgement to determine what's right or wrong.*  
+As stated earlier, harassment will not be tolerated. This includes negative interactions such as bullying for whatever reason.  
+Furthermore, consistent pinging (`@<User>`) and/or ghost-pinging (Deleting a ping after sending), DMs, and other forms of potentially annoying actions is prohibited once asked to stop by other user.
 
-*So This Is A Discord Server :eyes:*, abbreviated *STIADS:eyes:* is a place to do things because you're bored. We aim to create a fun and lighthearted atmosphere here.
+• **Content & Media**  
+Every post that you send, whether it be messages or any form of media, is subject to rules as well.  
+First and foremost, this is a PG server. Graphical and/or vulgar content is prohibited.  
+The sharing of hacks, exploits, pirated software, etc., is prohibited.  
+Spam is prohibited. This includes the repeated posting of text, media, etc., as well as pointless messages that have no purpose other than to be an annoyance and cause a disruption. Random messages for the purpose of leveling is included in this.  
+Please refrain from using any form of spoilers for movies, books, tv shows, etc., as this may ruin the enjoyment of such content for other members.  
+Advertising is allowed in #media for online streams and videos. Discord server invites, offline streams, direct links to YouTube channels, and other content unrelated to *STIADS:eyes:* and its community, is prohibited and subject to removal.
 
-> **ModMail**
+• **Terms of Service**  
+Discord provides a wonderful experience chatting with people. Being a member of *STIADS:eyes:* requires you to follow and respect the Discord Terms of Service.  
+You can read the full terms at <https://dis.gd/terms>
 
-We encourage you to report any and all issues that arise in this server, through the use of @STIADS👀 Bot#9143. To contact a mod, DM @STIADS👀 Bot#9143 and send your message. Attach any files if needed.
-Please give the Moderators time to review and discuss your ticket. All tickets will be kept confidential.
+• **Have Fun!**  
+This server's intended purpose is to hang out and have fun with the members of the server.  
+If any practices of the server are ruining the experience, we encourage you to speak out. If you are uncomfortable using #feedback-suggestions, DM @STIADS👀 Bot#9143 with your concern. If you don't share, we won't know and we can't change.  
+Additionally, refrain from ruining another person's experience, however that may be done.
 
-> **Channel Topics**
+If someone is breaking the rules enough to require immediate attention, please mention @Moderator or @Helper.  
+If there are non-urgent issues that require moderator assistance, DM @STIADS👀 Bot#9143 so that any moderator may help you.  
+If you have issues with a moderator, DM @cda94581#2410 or @cda94582#9689.
 
-Please keep all conversations limited to the proper channel
+> **Channels**
 
-**Text Channels**
+In order to keep the server organized, conversations are split into different channels based on the topic. Channels may also be split into different categories to group general topics. Each channel has a description, and a detailed list of channels can also be found below.
 
-- #announcements - Server related announcements
-- #polls - If I need/want some community feedback
-- #so-this-is-a-discord-channel👀 - For all general chats and hanging out
-- #media - Pictures go here. *Please refrain from posting memes* You can also advertise your videos and streams here. *Do not post links that take you directly to the channel or offline streams*
-- #help - Got a question? Ask it here!
-- #feedback-suggestions - For all server related suggestions
-- #bot-commands - Keep all bot commands here
-- #old-modifications - Pfp submission announcements
-- #modifications - Pfp submissions
-- #movie-script-discussion - Discussion for a movie
-- #movie-script - Script for said movie
-- #voice-texting - For people who are unable to or unwilling to use a microphone. *Only use when in VC*
+• **Text Channels**  
+#bully-cda-planning-chat - A private channel to plan ways to bully @cda94581#2410. React to [this message](https://discord.com/channels/760613444323115018/760628208868655128/805113734901006357) to gain access.  
+#so-this-is-a-discord-channel👀 - General chat and hangout  
+#media - For pictures, videos, other forms of media  
+#help - Asking for help  
+#feedback-suggestions - Server feedback and suggestions  
+#bot-commands - Using bots should be done here  
+#modifications - Announcements related to server modifications  
+#movie-script-discussion - Discussion of a move script :eyes:  
+#movie-script - Finalized movie script :eyes:  
+#lfg - Looking for game  
+#stiams-chat - Chat related to *So This Is A Minecraft Server*  
+#n-vwls-cht - Don't use vowels :wink:
 
-**Voice Channels**
+• **Voice Channels**  
+*General* - For general voice chat  
+*Music* - For music. Due to current issues however, music has been temporarily disabled.  
+*Afk* - Moved into this channel after a set time of being AFK
 
-- General - General Chatting
-- Music - Listening to Music
-- Afk - For those AFK, if you're inactive for 15+ minutes, you get moved here
+> **Leveling & Roles**
 
-> **Roles**
+For each message you send in *STIADS:eyes:*, you will gain a random between 15 and 25 experience. After gaining a certain amount of experience, you level up. You can check your rank using `-rank` in #bot-commands, and you can check the server leaderboard using `-leaderboard`. Role rewards are given upon reaching some levels:  
+Level 5 - @cda is a bully  
+Level 10 - @cda is a bigger bully  
+Level 20 - @cda is a big bad evil bully
 
-- @cda - Owner of the server, @cda94581#2410
-- @Admin - Backend server Admins
-- @Moderator - Moderators of the server
-- @Helper - Moderators in training
-- @A Role For Memo 👀 - Cause. Don't question it :wat:
-- @Biggest Flex - Also Cause. Also Don't question it :wat:
-- @Movie Writers - People who are apparently writing a movie :eyes:
-- @Modification Consent - Member who may submit a Pfp
-- @Former cda94581 Modifier - Former member who has submitted a Pfp
+ • **Other Roles**:  
+@cda - The cdas  
+@Admin - Backend server Admins  
+@Moderator - Moderators of the server  
+@Helper - Moderators in training  
+@A Role For Memo 👀 - Cause. Don't question it :wat:  
+@Biggest Flex - Also Cause. Also Don't question it :wat:  
+@Movie Writers - People who are apparently writing a movie :eyes:  
+@Modification Consent - Members may submit a pfp for members with this role  
+@Former cda94581 Modifier - Former member who has submitted a pfp before modifications were changed
 
-> **Leveling**
+> **Quick Bits**
 
-For each minute you chat, you gain a random amount between 15 and 25 xp. *You only gain xp once every minute*. Once you have gained enough xp, you will advance to the next level. Roles are awarded at level 5, 10, and 20:
-- 5 - @cda is a bully
-- 10 - @cda is a bigger bully
-- 20 - @cda is a big bad evil bully
+• **Moderator Contact**  
+If you would like to contact a moderator for non-urgent issues or direct questions, we have a system in place. Simply DM @STIADS👀 Bot#9143 and include as much information as possible. Attach any files as needed. Please give time for the team to review and discuss each "ticket". All inquiries will be kept confidential.
 
-To check your level, head over to #bot-commands and type `-rank`
+• **Feedback**  
+We encourage active feedback from all members of *STIADS:eyes:*. If you have any way this server can be improved, whether it's rules, activities, or anything else, feel free to let us know! You're free to publicly request in #feedback-suggestions or privately with the Moderator Contact information as listed above.
 
-> **Feedback**
+• **Modifications**  
+Every week, assuming a certain @cda94581#2410 doesn't forget, we do a modification vote, where a member may opt to make a modification to any user with the @Modification Consent role. Modifications can be pfp changes, name changes, and others as well. The goal is to do this on Tuesdays, but it is flexible if needed. To submit, when submissions are open, you may DM @STIADS👀 Bot#9143, be sure to start your message with Modification Submission. Attach files as needed, and if there is anything else to note, mention it in the message. If successful, you should get 2 responses saying "Message Sent!" (one for mod messaging). To vote, react with a :thumbsup: the one you want. When voting closes, the submission with the most votes wins. React to this message with a :thumbsup: to gain the @Modification Consent role.
 
-We'd love to hear all your feedback! Whether it is rules, new activities, etc, we want to know what you think!
-Please let us know these thoughts in #feedback-suggestions
+• **Movie**  
+Apparently people were talking about a movie, so the channels, #movie-script-discussion and #movie-script were created to discuss and write the script, respectively. Members with the @Movie Writers role will be given access. For fun ofc :p  
+Check out #movie-script-discussion for information on applying for the role.
 
-> **Modifications**
+• **STIAMS**  
+STIAMS is a Minecraft server in the works. As I'm lazy to work on this description, see #stiams-rules-info for more information.
 
-We are experimenting with an "anyone can submit, and people vote" style of modifications.
-Members may also select other people to change their identity (nickname, pfp, status, etc), as long as they have consented prior to allow modifications.
-Like previously, these modifications are on Tuesday of the following week, for 1 day. This is flexible if needed.
-
-To submit, when submissions are open, you may DM @STIADS👀 Bot#9143 and be sure to start your message with Modification Submission. Attach files as needed, and if there is anything else to note, mention it in the message.
-If successful, you should get 2 responses saying "Message Sent!" (one for mod messaging).
-To vote, react with a 👍 the one you want. When voting closes, the submission with the most votes wins.
-
-React to this message with a 👍 to gain the @Modification Consent role.
-
-> **Movie**
-
-Apparently people were talking about a movie, so the channels, #movie-script-discussion and #movie-script were created to discuss and write the script, respectively. Members with the @Movie Writers role will be given access. For fun ofc :p Currently looking for ideas for how I hand this role out, plus a potential color for this
-
-> **Genders**
-
+• **Genders**  
 We want to respect all members' genders, so we have Gender Roles you can get, to be sure we call you by the proper pronoun.
-React to this message to get the roles:
-- :male_sign: - @Gender: Male
-- :female_sign: - @Gender: Female
-- :three: - @Gender: They
-- :four: - @Gender: Other
-
-You can only have 1 at any given time.
+React to this message to get the roles:  
+:male_sign: - @Gender: Male  
+:female_sign: - @Gender: Female  
+:three: - @Gender: They  
+:four: - @Gender: All  
+You can only have 1 at any given time. If would like multiple roles, please DM @STIADS👀 Bot#9143.
 
 > **Enjoy the Server!**
+
+Discord Invite Link: <https://discord.gg/byxaSZr>

@@ -1,8 +1,8 @@
 # Unrelated to Content
 This is a place where you can find other projects I've been working on, outside of the life of making videos.
 
-## [Blog](./unrelated/blog)
-Occasionally, I might want to write about something. This is just a place for me to store unrelated things that I learned, or anything I want to keep, but don't have a place to keep it for. I refuse to use other blogging sites though, so I'll use this.
+## [Blog](https://cda94581.blogspot.com)
+Occasionally, I might want to write about something. This is just a place for me to store unrelated things that I learned, or anything I want to keep, but don't have a place to keep it for.
 
 ## GitHub
 Projects that I created, based around GitHub.

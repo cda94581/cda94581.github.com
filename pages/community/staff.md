@@ -24,9 +24,7 @@ Moderators keep our community in check, while also being a key part in the perso
 ::: code-group-item Bio
 sus, humble!
 
-- Content Creator on YT
-- Plays on The Hive
-- Loves helping people
+Hello, I am Jack Tom (u can call me tom) I am content creator on YT ,who makes videos on a server called Hive and also play some survival mode with friends xD, I love helping people (that is because the happiness/the feeling on there face which I see after the work is completed in which I helped in, give me a great feeling). I am also a staff in CDA server because he has helped me in alot of ways and made me happy many times I want to help him in some or the other way so I applied for staff and when the results come out I was a mod :0 I was shocked because they were so many other people and out of them I got selected was a 8 wonder in my world xD, but I wanted to the best mod so that I could help cda in the best way so I try  my best to everything I can do. And I welcome u call to the server :D
 
 Moderator since February 13, 2021.
 :::

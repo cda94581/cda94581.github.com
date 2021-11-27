@@ -33,6 +33,26 @@ Moderator since February 13, 2021.
 
 ::: code-group-item Featured Socials
 Insert an amazingly suspicious featured video, stream, tweet, etc here.
+- [YouTube](https://youtube.com/channel/UCYPgOYu7O8vlJHUhQiyf4_w)
+- [Twitter](https://twitter.com/Jktom1234)
+<TwitterFollow id="Jktom1234" />
+:::
+::::
+
+### zhea dynamix
+:::: code-group
+::: code-group-item Image
+![zhea dynamix](/images/staff/moderators/zhea-dynamix.png)
+:::
+
+::: code-group-item Bio
+Suspicious. And awesome.
+
+Moderator since November 23, 2021.
+:::
+
+::: code-group-item Featured Socials
+Insert an amazingly suspicious featured video, stream, tweet, etc here.
 - Amazingly suspicious things
 :::
 ::::

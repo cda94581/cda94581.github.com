@@ -44,13 +44,21 @@ Insert an amazingly suspicious featured video, stream, tweet, etc here.
 :::
 
 ::: code-group-item Bio
-Suspicious. And awesome.
+"Success is not final; failure is not fatal, It is the courage to continue that counts."
+
+Minecraft Bedrock Edition Maps Developer.
+*I place blocks & write lines in them to make fun games, I also place more blocks which ends up looking good.*
 
 Moderator since November 23, 2021.
 :::
 
 ::: code-group-item Featured Socials
-Insert an amazingly suspicious featured video, stream, tweet, etc here.
-- Amazingly suspicious things
+<YouTubeVideo id="fFQOA_lqUhk" />
+
+- [YouTube](https://youtube.com/c/zheadynamix)
+- [Twitter](https://twitter.com/zhea_dynamix)
+- [Reddit](https://www.reddit.com/u/zhea_dynamix)
+- [Discord](https://discord.gg/ZAQ7M6xcGF)
+<TwitterFollow id="zhea_dynamix" />
 :::
 ::::

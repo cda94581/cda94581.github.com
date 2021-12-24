@@ -128,7 +128,7 @@ If you have any feedback, suggestions, or issues, feel free to [contact me](../a
 :::
 
 ## 2021/03/16
-> **Cda's Morph Add-on by cda94581** - Updated 2021/08/15 - Version 0.0.7
+> **Cda's Morph Add-on by cda94581** - Updated 2021/12/24 - Version 0.0.8
 <YouTubeVideo id="hrUO6cjRXj0" />
 
 ### Introduction
@@ -151,34 +151,76 @@ Please note, many packs will **<span style="background-color: #FDFD77;">not</spa
 
 **To Obtain**:
 
-Some items may currently be unobtainable, this will be worked on in the future. You can either obtain the items by **Crafting** or by **Killing** the proper mob. Recipes are provided below:
+You can either obtain the items by **Crafting** or by **Killing** the proper mob. Recipes are provided below:
 
-- *Creeper* - 1 Gunpowder
-- *Bee* - 1 Honeycomb
-- *Drowned* - 1 Rotten Flesh
-- *Endermite* - 1 Ender Pearl
-- *Evoker* - 1 Emerald
-- *Ghast* - 1 Ghast Tear
-- *Hoglin* - 1 Crimson Fungus
-- *Husk* - 1 Rotten Flesh
-- *Magma Cube* - 1 Magma Cream
-- *Phantom* - 1 Phantom Membrane
-- *Piglin Brute* - 1 Gold Ingot
-- *Pillager* - 1 Emerald
-- *Player* - 1 Dirt
-- *Ravager* - 1 Saddle
-- *Shulker* - 1 Shulker Shell
-- *Skeleton* - 1 Bone
-- *Slime* - 1 Slimeball
-- *Stray* - 1 Bone
-- *Vex* - 1 Emerald
-- *Vindicator* - 1 Emerald
-- *Witch* - 1 Stick
-- *Wither Skeleton* - 1 Coal
-- *Wolf* - 1 Bone
-- *Zoglin* - 1 Crimson Fungus
-- *Zombie* - 1 Rotten Flesh
-- *Zombie Villager* - 1 Rotten Flesh
+- *Agent* - Dirt
+- *Axolotl* - Water Bucket
+- *Bat* - Stone
+- *Bee* - Honeycomb
+- *Cat* - String
+- *Cave Spider* - Spider Eye
+- *Chicken* - Feather
+- *Cod* - Cod
+- *Cow* - Leather
+- *Creeper* - Gunpowder
+- *Dolphin* - Cod
+- *Donkey* - Leather
+- *Drowned* - Rotten Flesh
+- *Ender Dragon* - Dragon Egg (You'll get it back) - Unavailable ATM
+- *Enderman* - Ender Pearl
+- *Endermite* - Ender Pearl
+- *Evoker* - Emerald
+- *Fox* - Sweet Berry
+- *Ghast* - Ghast Tear
+- *Glow Squid* - Glow Ink Sac
+- *Goat* - Stone (Temporary)
+- *Hoglin* - Crimson Fungus
+- *Horse* - Leather
+- *Husk* - Rotten Flesh
+- *Iron Golem* - Iron Ingot
+- *Llama* - Leather
+- *Magma Cube* - Magma Cream
+- *Mooshroom* - Leather
+- *Mule* - Leather
+- *NPC* - Dirt
+- *Ocelot* - String
+- *Panda* - Bamboo
+- *Parrot* - Feather
+- *Phantom* - Phantom Membrane
+- *Pig* - Porkchop
+- *Piglin* - Gold Nugget
+- *Piglin Brute* - Gold Ingot
+- *Pillager* - Emerald
+- *Player* - Dirt
+- *Polar Bear* - Cod
+- *Pufferfish* - Pufferfish
+- *Rabbit* - Rabbit Hide
+- *Ravager* - Saddle
+- *Salmon* - Salmon
+- *Sheep* - Wool
+- *Shulker* - Shulker Shell
+- *Skeleton* - Bone
+- *Skeleton Horse* - Bone
+- *Slime* - Slimeball
+- *Snow Golem* - Snowball
+- *Spider* - Spider Eye
+- *Squid* - Ink Sac
+- *Stray* - Bone
+- *Strider* - String
+- *Tropical Fish* - Tropical Fish
+- *Turtle* - Seagrass
+- *Vex* - Emerald
+- *Villager* - Emerald
+- *Vindicator* - Emerald
+- *Wandering Trader* - Emerald
+- *Witch* - Stick
+- *Wither* - Nether Star (You'll get it back)
+- *Wither Skeleton* - Coal
+- *Wolf* - Bone
+- *Zoglin* - Crimson Fungus
+- *Zombie* - Rotten Flesh
+- *Zombie Villager* - Rotten Flesh
+- *Zombified Piglin* - Gold Nugget
 
 You can also toggle if you want to only be able to obtain by **crafting**, by **killing**, by **both**, or have **no way** to obtain. **You MUST select one of these, or the pack will not work**. To do so, go into your world behavior packs. Tap on it, then tap the **gear** icon. Then, drag the slider to the appropriate one you would like. Options:
 - **Left** - No Way to Obtain in Survival
@@ -216,9 +258,10 @@ If your pack won't work, the information below may help. Additional information 
 - Make sure both the Resource Pack and Behavior Pack is applied.
 - This pack might not be compatible with other packs.
 - Cheats might need to be enabled (testing required).
-- Before 0.0.6, make sure you're on version 1.16.201+.
-- As of 0.0.6, make sure you're on version 1.17.0+.
+- Before 0.0.6, make sure you're on version 1.16.201+
+- As of 0.0.6, make sure you're on version 1.17.0+
 - As of 0.0.7, make sure you're on version 1.17.10+
+- As of 0.0.8, make sure you're on version 1.18.0+
 - Before 0.0.3, make sure "Holiday Creator Features" is enabled.
 - Contact me! I highly recommend using [these links](../about#links) as I can more easily receive notifications and as such, help more.
 
@@ -238,17 +281,71 @@ If you have any feedback, suggestions, or issues, feel free to [contact me](../a
 :::
 
 ### Downloads
-- [Download on Mediafire (avoid Download Here ads)](https://www.mediafire.com/file/uvpk0ghl187ykr9/cdasMorphV0.0.7.mcaddon/file)
+- [Download on Mediafire (avoid Download Here ads)](https://www.mediafire.com/file/4oob95izawlqu3y/cdasMorphV0.0.8.mcaddon/file)
 - [Bugs, Feedback, Suggestions, Contributions](https://github.com/cda94581/Community_Collabs/tree/Add-ons/cda002)
 
 ::: details LEGACY LINKS
 These are a collection of the latest release, when you're on the latest version.
+- [Download Last version for 1.17.10 (Alpha 0.0.7)](https://www.mediafire.com/file/uvpk0ghl187ykr9/cdasMorphV0.0.7.mcaddon/file)
 - [Download Last version for 1.17.0 (Alpha 0.0.6)](https://www.mediafire.com/file/c2msjyqfl7019xs/cdasMorphV0.0.6.mcaddon/file)
 - [Download Last version for 1.16 (Alpha 0.0.5)](https://www.mediafire.com/file/7lp1zj1nebsax3s/cdasMorphV0.0.5.mcaddon/file)
 :::
 
 ### Changelogs
-:::: details 0.0.1 - 0.0.7
+:::: details 0.0.1 - 0.0.8
+::: details Version 0.0.8
+- Updated Properly for 1.18.0
+- Added Loot Tables for the following mobs ([#13](https://github.com/cda94581/Community_Collabs/issues/13)):
+	- Axolotl
+	- Bat
+	- Ender Dragon (as WIP)
+	- NPC
+	- Villager
+	- Wandering Trader
+- Added Recipes for the following mobs ([#85](https://github.com/cda94581/Community_Collabs/issues/85)):
+	- Agent - Dirt
+	- Axolotl - Water Bucket
+	- Bat - Stone
+	- Cat - String
+	- Cave Spider - Spider Eye
+	- Chicken - Feather
+	- Cod - Cod
+	- Cow - Leather
+	- Dolphin - Cod
+	- Donkey - Leather
+	- Ender Dragon - Dragon Egg (You'll get it back) - Unavailable ATM
+	- Enderman - Ender Pearl
+	- Fox - Sweet Berry
+	- Glow Squid - Glow Ink Sac
+	- Goat - Stone (Temporary)
+	- Horse - Leather
+	- Iron Golem - Iron Ingot
+	- Llama - Leather
+	- Mooshroom - Leather
+	- Mule - Leather
+	- NPC - Dirt
+	- Ocelot - String
+	- Panda - Bamboo
+	- Parrot - Feather
+	- Pig - Porkchop
+	- Piglin - Gold Nugget
+	- Polar Bear - Cod
+	- Pufferfish - Pufferfish
+	- Rabbit - Rabbit Hide
+	- Salmon - Salmon
+	- Sheep - Wool
+	- Skeleton Horse - Bone
+	- Snow Golem - Snowball
+	- Spider - Spider Eye
+	- Squid - Ink Sac
+	- Strider - String
+	- Tropical Fish - Tropical Fish
+	- Turtle - Seagrass
+	- Villager - Emerald
+	- Wandering Trader - Emerald
+	- Wither - Nether Star (You'll get it back)
+	- Zombified Piglin - Gold Nugget
+:::
 ::: details Version 0.0.7
 - Updated Properly for 1.17.10
 - Reformatted queries and variables to save a few bytes

@@ -1,5 +1,5 @@
 # cda94581's Website
-Welcome! You've found the rewrite of my website. I wonder what will be here someday.
+Welcome! You've found my website rewrite. I wonder what will be here someday.
 
 Random gibberish aside, feel free to explore around!
 

@@ -58,7 +58,7 @@ Moderator since November 23, 2021.
 - [YouTube](https://youtube.com/c/zheadynamix)
 - [Twitter](https://twitter.com/zhea_dynamix)
 - [Reddit](https://www.reddit.com/u/zhea_dynamix)
-- [Discord](https://discord.gg/ZAQ7M6xcGF)
+- [Discord - Bedrock Commands Archive](https://discord.gg/SYstTYx5G5)
 <TwitterFollow id="zhea_dynamix" />
 :::
 ::::

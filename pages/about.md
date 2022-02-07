@@ -10,7 +10,6 @@ Below is a collection of my social links where you can get ahold of me, assuming
 - [Twitch](https://twitch.tv/cda94581)
 - [:star: Twitter](https://twitter.com/cda94581)
 - [:star: Discord Server](https://discord.gg/F3tWzxJfej)
-- [:star: Alternative, Random, and not Content Related Discord Server](https://discord.gg/byxaSZr)
 - [Website (Probably WIP, and you're right here right now)](https://cda94581.github.io)
 - [Legacy Website](https://cda94581.github.io/website-legacy)
 - [Ancient Website](https://sites.google.com/view/cda94581)

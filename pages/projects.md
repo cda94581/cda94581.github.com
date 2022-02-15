@@ -1,4 +1,4 @@
-# Unrelated to Content
+# Projects & Portfolio
 This is a place where you can find other projects I've been working on, outside of the life of making videos.
 
 ## [Blog](https://cda94581.blogspot.com)
@@ -17,7 +17,7 @@ Unlike most of this website's [license](#license), these bots are available unde
 ## Discord
 Projects that I created, based around Discord.
 
-### [Stories](./unrelated/discord/stories)
+### [Stories](./projects/discord/stories)
 These are some stories that I've written, or am working on writing, in my free time. They were originally posted to Discord.
 
 ::: warning License Notice

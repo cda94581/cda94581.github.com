@@ -52,8 +52,8 @@ module.exports = {
 				link: '/community'
 			},
 			{
-				text: 'Unrelated to Content',
-				link: '/unrelated'
+				text: 'Projects',
+				link: '/projects'
 			}
 		],
 		sidebar: 'auto'

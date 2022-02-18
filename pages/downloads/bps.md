@@ -140,12 +140,12 @@ Cda’s Morph Add-on brings the popular Java Edition Morph Mod onto Bedrock Edit
 Please note that I am fully, 100% aware of many issues. I am working on fixing them. For a question like "It doesn't work", (because it works) check the troubleshooting section. If you have issues with that, then [contact me](../about#links). For something that you think is a bug, report it on [GitHub](https://github.com/cda94581/Community_Collabs/issues?q=is%3Aopen+is%3Aissue+label%3A%22%E2%9A%A0+Bug%22+label%3A%22%F0%9F%A7%9F%E2%80%8D%E2%99%82%EF%B8%8F+Cda%27s+Morph+Add-on%22) if it hasn't already been reported.
 
 This add-on allows you to **morph** into any mob. With this add-on you have at your disposal 71 different mobs **Morph** items that you may use to morph into the mobs, as well as an item to morph back into your regular **Player**.
-![Morph Items](WIP)
+![Morph Items](https://api.mcpedl.com/storage/submissions/119040/images/cdas-morph-alpha_2.png)
 
 Please note that from version 0.0.7 and onwards, using the morph items is different. Previously, you would just **USE** the item, whether that be right-click or similar. <span style="background-color: #FDFD77">**Now**, you must **SNEAK & JUMP**</span> while holding the item.
 
 You also have 1 **WIP** mob, the Ender Dragon.
-![WIP Morph Item](WIP)
+![WIP Morph Item](https://api.mcpedl.com/storage/submissions/119040/images/cdas-morph-alpha_3.png)
 
 Please note, many packs will **<span style="background-color: #FDFD77;">not</span>** work with this, as it modifies the **<span style="background-color: #FDFD77;">Vanilla Player Files</span>**.
 

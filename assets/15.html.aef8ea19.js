@@ -1,0 +1,1 @@
+const e={key:"v-6242b3bc",path:"/videos/2020/12/15.html",title:"Minecraft Bedrock Custom Entity Behaviors | DIY Minecraft",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1629046024e3},filePathRelative:"videos/2020/12/15.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-d95e0100",path:"/videos/2021/07/27.html",title:"Running Commands Through Items | Minecraft Add-on Tutorial",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1629046024e3},filePathRelative:"videos/2021/07/27.md"};export{e as data};

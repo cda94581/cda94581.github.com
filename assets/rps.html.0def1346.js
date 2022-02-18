@@ -1,0 +1,1 @@
+const e={key:"v-79e0213e",path:"/downloads/rps.html",title:"Resource Packs",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"ChunkBounds - LinusDev",slug:"chunkbounds-linusdev",children:[]}],git:{updatedTime:1628974879e3},filePathRelative:"downloads/rps.md"};export{e as data};

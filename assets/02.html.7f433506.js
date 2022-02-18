@@ -1,0 +1,1 @@
+const t={key:"v-602adc42",path:"/videos/2021/03/02.html",title:"Minecraft Bedrock Custom Entity Spawning (Spawn Rules) | Bedrock Edition Add-on Tutorial",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1629046024e3},filePathRelative:"videos/2021/03/02.md"};export{t as data};

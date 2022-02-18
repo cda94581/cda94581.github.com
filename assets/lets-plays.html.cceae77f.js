@@ -1,0 +1,1 @@
+const e={key:"v-22bf8796",path:"/lets-plays.html",title:"Let's Plays",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Blasting to Bedrock",slug:"blasting-to-bedrock",children:[{level:3,title:"Stats",slug:"stats",children:[]},{level:3,title:"Rules",slug:"rules",children:[]}]}],git:{updatedTime:1628959849e3},filePathRelative:"lets-plays.md"};export{e as data};

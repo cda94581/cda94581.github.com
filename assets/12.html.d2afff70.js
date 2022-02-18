@@ -1,0 +1,1 @@
+const e={key:"v-477021c4",path:"/videos/2021/01/12.html",title:"Minecraft Bedrock Custom Fogs | DIY Minecraft",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Fogs Schema",slug:"fogs-schema",children:[]},{level:2,title:"Fogs Example",slug:"fogs-example",children:[]}],git:{updatedTime:1629046024e3},filePathRelative:"videos/2021/01/12.md"};export{e as data};

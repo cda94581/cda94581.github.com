@@ -1,0 +1,1 @@
+const t={key:"v-b1b11c02",path:"/videos/2021/02/23.html",title:"Minecraft Bedrock How to Make Custom Entities! | Bedrock Edition Add-on Tutorial",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1629046024e3},filePathRelative:"videos/2021/02/23.md"};export{t as data};

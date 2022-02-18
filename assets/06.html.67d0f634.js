@@ -1,0 +1,1 @@
+const t={key:"v-27cfb05f",path:"/videos/2021/07/06.html",title:"Making Custom Blocks in Minecraft | Minecraft Add-on Tutorial",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1629046024e3},filePathRelative:"videos/2021/07/06.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-225a9ff6",path:"/videos/2020/06/22.html",title:"How to Reset the Nether! 1.16 Nether Update | Bedrock Edition Tutorial",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1629046024e3},filePathRelative:"videos/2020/06/22.md"};export{e as data};

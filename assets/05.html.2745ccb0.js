@@ -1,0 +1,1 @@
+const e={key:"v-a6ff848c",path:"/videos/2021/01/05.html",title:"Changing Recipes and Loot Tables in Minecraft Bedrock | DIY Minecraft",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1629046024e3},filePathRelative:"videos/2021/01/05.md"};export{e as data};

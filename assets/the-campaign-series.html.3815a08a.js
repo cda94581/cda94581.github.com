@@ -1,0 +1,1 @@
+const e={key:"v-40b5ca3c",path:"/projects/discord/stories/the-campaign-series.html",title:"The Campaign (series)",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"The Campaign (Book) - Draft 1",slug:"the-campaign-book-draft-1",children:[]}],git:{updatedTime:1644889081e3},filePathRelative:"projects/discord/stories/the-campaign-series.md"};export{e as data};

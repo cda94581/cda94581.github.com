@@ -1,0 +1,1 @@
+const e={key:"v-268915ff",path:"/videos/2020/12/01.html",title:"Minecraft Bedrock CUSTOM Textures! Change the way Your Game Looks! | DIY Minecraft",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Texture Maps - WIP",slug:"texture-maps-wip",children:[]}],git:{updatedTime:1629046024e3},filePathRelative:"videos/2020/12/01.md"};export{e as data};

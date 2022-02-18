@@ -1,0 +1,1 @@
+const e={key:"v-dbeb35c0",path:"/videos/2020/12/22.html",title:"How to Make a World Border in Minecraft Bedrock | MCBE Add-on Tutorial",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Code",slug:"code",children:[]}],git:{updatedTime:1629046024e3},filePathRelative:"videos/2020/12/22.md"};export{e as data};

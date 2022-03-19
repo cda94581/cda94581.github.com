@@ -128,13 +128,13 @@ If you have any feedback, suggestions, or issues, feel free to [contact me](../a
 :::
 
 ## 2021/03/16
-> **Cda's Morph Add-on by cda94581** - Updated 2021/12/24 - Version 0.0.8
+> **Cda's Morph Add-on by cda94581** - Updated 2022/03/19 - Version 0.1.0
 <YouTubeVideo id="hrUO6cjRXj0" />
 
 ### Introduction
-**This Add-on is in ALPHA, and there will be bugs**
+**This Add-on is in BETA, and there will be bugs**
 
-Cda’s Morph Add-on brings the popular Java Edition Morph Mod onto Bedrock Edition! This currently supports all the hostile mobs as stated by Minecraft Gamepedia. You are able to morph into mobs and take their appearance, abilities, and more using items that you can either craft or get by killing a mob.
+Cda’s Morph Add-on brings the popular Java Edition Morph Mod onto Bedrock Edition! This currently supports all the mobs as stated by Minecraft Gamepedia, minus the Ender Dragon. You are able to morph into mobs and take their appearance and more using items that you can either craft or get by killing a mob.
 
 ### Documentation
 Please note that I am fully, 100% aware of many issues. I am working on fixing them. For a question like "It doesn't work", (because it works) check the troubleshooting section. If you have issues with that, then [contact me](../about#links). For something that you think is a bug, report it on [GitHub](https://github.com/cda94581/Community_Collabs/issues?q=is%3Aopen+is%3Aissue+label%3A%22%E2%9A%A0+Bug%22+label%3A%22%F0%9F%A7%9F%E2%80%8D%E2%99%82%EF%B8%8F+Cda%27s+Morph+Add-on%22) if it hasn't already been reported.
@@ -262,6 +262,7 @@ If your pack won't work, the information below may help. Additional information 
 - As of 0.0.6, make sure you're on version 1.17.0+
 - As of 0.0.7, make sure you're on version 1.17.10+
 - As of 0.0.8, make sure you're on version 1.18.0+
+- As of 0.1.0, make sure you're on version 1.18.10+
 - Before 0.0.3, make sure "Holiday Creator Features" is enabled.
 - Contact me! I highly recommend using [these links](../about#links) as I can more easily receive notifications and as such, help more.
 
@@ -281,17 +282,41 @@ If you have any feedback, suggestions, or issues, feel free to [contact me](../a
 :::
 
 ### Downloads
-- [Download on Mediafire (avoid Download Here ads)](https://www.mediafire.com/file/4oob95izawlqu3y/cdasMorphV0.0.8.mcaddon/file)
+- [Download on Mediafire (avoid Download Here ads)](https://www.mediafire.com/file/hcj9uwzu468ww9y/cdasMorphV0.1.0.mcaddon/file)
 - [Bugs, Feedback, Suggestions, Contributions](https://github.com/cda94581/Community_Collabs/tree/Add-ons/cda002)
 
 ::: details LEGACY LINKS
 These are a collection of the latest release, when you're on the latest version.
+- [Download Last version for 1.18.0 (Alpha 0.0.8)](https://www.mediafire.com/file/4oob95izawlqu3y/cdasMorphV0.0.8.mcaddon/file)
 - [Download Last version for 1.17.10 (Alpha 0.0.7)](https://www.mediafire.com/file/uvpk0ghl187ykr9/cdasMorphV0.0.7.mcaddon/file)
 - [Download Last version for 1.17.0 (Alpha 0.0.6)](https://www.mediafire.com/file/c2msjyqfl7019xs/cdasMorphV0.0.6.mcaddon/file)
 - [Download Last version for 1.16 (Alpha 0.0.5)](https://www.mediafire.com/file/7lp1zj1nebsax3s/cdasMorphV0.0.5.mcaddon/file)
 :::
 
 ### Changelogs
+::: details Version 0.1.0
+Updated Properly for 1.18.10
+Added Iron Golem Cracking
+
+Welcome to Beta!
+
+Developer Message:
+Hey everyone!
+It's been a fun year. Over the last 365 of this pack's lifetime, the pack has attained over 260 THOUSAND downloads from the Mediafire links! That was completely unexpected. Anyway, I want to update you a bit about the future of this add-on.
+With the release of Cda's Morph Beta 0.1.0, I feel like there are so many parts overall that have accumulated to me being unhappy with the project overall. Therefore, I want to make a compromise and a deal. For the next few months, this will be the last update.
+I get what this means. The pack will likely not be updating for the next few updates, and so may fall outdated. It may still *work*, but unfortunately it may not work as properly as it should. Additionally, with the 1.19 Wild Update creeping up, this means that the new mobs such as Frogs, Tadpoles, and the Warden will not be implemented.
+
+Why am I halting?
+Simply put, this project has ended up somewhere I am not happy with. So many workarounds, bugs, issues, etc. Even from its first release, the project was rushed. Over time, I ended up sacrificing quality for quantity. Mob abilities were never implemented properly, and so many mobs had issues with themselves. So, I have a new plan.
+
+I'm technically not halting.
+You just aren't seeing it. Over the last year, a plethora of new features have made their way into Minecraft. With these features, I plan to completely revamp Morph. The items and subpacks, which caused TONS of issues, will be no more. It will also end up more similar to its Java counterpart. But it takes time.
+It's why there likely won't be any more updates. I want to dedicate all my time spent developing Morph, on this single revamp.
+
+Thank you for enjoying Cda's Morph for a year, and I hope you all have another great day.
+-cda
+:::
+
 :::: details 0.0.1 - 0.0.8
 ::: details Version 0.0.8
 - Updated Properly for 1.18.0
@@ -346,6 +371,7 @@ These are a collection of the latest release, when you're on the latest version.
 	- Wither - Nether Star (You'll get it back)
 	- Zombified Piglin - Gold Nugget
 :::
+
 ::: details Version 0.0.7
 - Updated Properly for 1.17.10
 - Reformatted queries and variables to save a few bytes

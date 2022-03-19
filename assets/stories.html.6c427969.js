@@ -1,1 +1,0 @@
-const e={key:"v-239afe85",path:"/projects/discord/stories.html",title:"Stories",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"The Campaign (series)",slug:"the-campaign-series",children:[]}],git:{updatedTime:1644889081e3},filePathRelative:"projects/discord/stories.md"};export{e as data};

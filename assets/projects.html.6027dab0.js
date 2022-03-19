@@ -1,0 +1,1 @@
+const e={key:"v-3ac5ce46",path:"/projects.html",title:"Projects & Portfolio",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Blog",slug:"blog",children:[]},{level:2,title:"GitHub",slug:"github",children:[{level:3,title:"Discord Bots",slug:"discord-bots",children:[]}]}],git:{updatedTime:1647544669e3},filePathRelative:"projects.md"};export{e as data};

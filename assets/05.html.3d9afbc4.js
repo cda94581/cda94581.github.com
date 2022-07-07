@@ -1,0 +1,1 @@
+const e={key:"v-2dcc7d1f",path:"/videos/2022/07/05.html",title:"Creating a Team Chat System! | Minecraft Bedrock Add-on Tutorial",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1657152733e3},filePathRelative:"videos/2022/07/05.md"};export{e as data};

@@ -9,6 +9,10 @@ Some videos have been published, but have since been unlisted or privated. Unlis
 
 Stuff for me to know: Move Tutorial Pack Downloads here...
 
+## [2022/07/05](./videos/2022/07/05)
+> **Creating a Team Chat System! | Minecraft Bedrock Add-on Tutorial**
+<YouTubeVideo id="p8YdmCviBh0" />
+
 ## [2022/05/03](./videos/2022/05/03)
 > **Behavior Pack Animations & Controllers | Minecraft Bedrock Add-on Guide**
 <YouTubeVideo id="qxgkD6pceo0" />

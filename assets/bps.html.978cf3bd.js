@@ -1,0 +1,1 @@
+const e={key:"v-44fd2171",path:"/downloads/bps.html",title:"Behavior Packs",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1666312718e3},filePathRelative:"downloads/bps.md"};export{e as data};

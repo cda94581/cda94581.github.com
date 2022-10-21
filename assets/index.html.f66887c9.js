@@ -1,1 +1,0 @@
-const e={key:"v-8daa1a0e",path:"/",title:"",lang:"en-US",frontmatter:{home:!0,heroText:"cda94581's Website",tagline:"Welcome to my website!"},excerpt:"",headers:[],git:{updatedTime:1657152733e3},filePathRelative:"index.md"};export{e as data};

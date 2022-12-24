@@ -26,7 +26,7 @@ sus, humble!
 
 Hello, I am Jack Tom (u can call me tom) I am content creator on YT ,who makes videos on a server called Hive and also play some survival mode with friends xD, I love helping people (that is because the happiness/the feeling on there face which I see after the work is completed in which I helped in, give me a great feeling). I am also a staff in CDA server because he has helped me in alot of ways and made me happy many times I want to help him in some or the other way so I applied for staff and when the results come out I was a mod :0 I was shocked because they were so many other people and out of them I got selected was a 8 wonder in my world xD, but I wanted to the best mod so that I could help cda in the best way so I try  my best to everything I can do. And I welcome u call to the server :D
 
-Moderator since February 13, 2021.
+Legacy moderator from February 13, 2021 to December 24, 2022.
 :::
 
 ::: code-group-item Featured Socials
@@ -49,7 +49,7 @@ Insert an amazingly suspicious featured video, stream, tweet, etc here.
 Minecraft Bedrock Edition Maps Developer.
 *I place blocks & write lines in them to make fun games, I also place more blocks which ends up looking good.*
 
-Moderator since November 23, 2021.
+Legacy moderator from November 23, 2021 to December 24, 2022.
 :::
 
 ::: code-group-item Featured Socials

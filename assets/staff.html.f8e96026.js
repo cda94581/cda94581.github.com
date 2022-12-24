@@ -1,1 +1,0 @@
-const e={key:"v-d6046750",path:"/community/staff.html",title:"Staff",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Moderators",slug:"moderators",children:[{level:3,title:"Jk_Tom",slug:"jk-tom",children:[]},{level:3,title:"zhea dynamix",slug:"zhea-dynamix",children:[]}]}],git:{updatedTime:1643323229e3},filePathRelative:"community/staff.md"};export{e as data};
